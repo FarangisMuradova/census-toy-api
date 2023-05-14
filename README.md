@@ -13,6 +13,7 @@ Pytest is a popular testing framework for Python that makes it easy to write sma
 
 ### You will need:
 PyCharm IDE https://www.jetbrains.com/pycharm/download/
+
 Anaconda https://www.anaconda.com/download
 ### Steps to run:
 - Launch PyCharm IDE
